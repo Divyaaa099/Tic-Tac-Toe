@@ -2,7 +2,7 @@
 
 A console-based Tic Tac Toe game built using Core Java, where you compete against the computer. This project focuses on strengthening programming fundamentals while implementing real-world game logic. It was created to improve problem-solving skills and gain hands-on experience with Core Java concepts like Arrays, Strings, Loops, Methods, Conditional Statements, and Random Number Generation.
 
-✨ Features
+✨ Features :
 🎯 User vs Computer gameplay
 🤖 Intelligent random computer moves
 🔄 Dynamic game board updates after every move
@@ -11,7 +11,7 @@ A console-based Tic Tac Toe game built using Core Java, where you compete agains
 🤝 Automatic draw condition detection
 💻 Clean and interactive console interface
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 ☕ Java
 📦 Arrays
 🔤 Strings
@@ -20,7 +20,7 @@ A console-based Tic Tac Toe game built using Core Java, where you compete agains
 🔀 Conditional Statements
 🎲 Random Class
 
-📚 Concepts Practiced
+📚 Concepts Practiced :
 Array manipulation
 Method creation and reuse
 Conditional logic
